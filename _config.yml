@@ -16,18 +16,11 @@ linkedin_username: panagiotisgia
 facebook_username: panagiotis.giannopoulos.397
 
 # Google-analytics
-<<<<<<< HEAD
-<<<<<<< HEAD
 google-analytics: G-JNC2DD8BZ4
   
-=======
-google-analytics: 
-  
->>>>>>> 1683d63ab9843669698bfb551d6dd622e623a723
-=======
-google-analytics: G-JNC2DD8BZ4
+
  
->>>>>>> 521c4fc09908d205aa458fe0ba0b1a4b3b685c97
+
 
 exclude: ['package.json', 'src' , 'node_modules']
 
