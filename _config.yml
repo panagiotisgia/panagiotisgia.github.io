@@ -16,7 +16,7 @@ linkedin_username: panagiotisgia
 facebook_username: panagiotis.giannopoulos.397
 
 # Google-analytics
-google-analytics: G-575EF3S0GF
+google_analytics: G-575EF3S0GF
   
 
 exclude: ['package.json', 'src' , 'node_modules']
