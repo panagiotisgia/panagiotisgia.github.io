@@ -7,7 +7,7 @@ url: "https://panagiotisgia.github.io" # the base hostname & protocol for your s
 # User settings
 username: Giannopoulos Panagiotis
 user_description: I firmly believe that numbers have an important story to tell. They rely on us to give them a clear and convincing voice. So, let them talk and extract all the valuable insights. With the pursuit of a MSc in Data Science and the inherent curiosity I build my confidence to solve bigger and bigger problems everyday. Currently interested in Big Data tools and Blockchain analytics.
-user_title: Data Enthusiast
+user_title: Data Scientist
 email: panagiotisgia@hotmail.com
 twitter_username: Panagiotisgia2
 github_username:  panagiotisgia
@@ -16,11 +16,8 @@ linkedin_username: panagiotisgia
 facebook_username: panagiotis.giannopoulos.397
 
 # Google-analytics
-google-analytics: G-JNC2DD8BZ4
+google-analytics: G-575EF3S0GF
   
-
- 
-
 
 exclude: ['package.json', 'src' , 'node_modules']
 
