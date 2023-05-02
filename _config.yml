@@ -16,7 +16,7 @@ linkedin_username: panagiotisgia
 facebook_username: panagiotis.giannopoulos.397
 
 # Google-analytics
-google_analytics: G-575EF3S0GF
+google_analytics: UA-225237315-1
   
 
 exclude: ['package.json', 'src' , 'node_modules']
